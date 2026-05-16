@@ -59,10 +59,13 @@ plugins:
 
 author:
   name             : "Dongin Kang"
-  avatar           : # "/assets/images/profile.jpg"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "Interested in WEB, WEB3, CLOUD security."
   location         : "South Korea"
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:your@email.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/LOBYI"
