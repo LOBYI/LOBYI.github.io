@@ -59,7 +59,7 @@ plugins:
 
 author:
   name             : "LOBYI - Dongin Kang"
-  avatar           : # "/assets/images/bio-photo.jpg"
+  avatar           : # "/assets/images/profile.jpg"
   bio              : "Interested in WEB, WEB3, CLOUD security."
   location         : "South Korea"
   links:
