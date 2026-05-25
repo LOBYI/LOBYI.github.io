@@ -1,8 +1,35 @@
 ---
-permalink: /about/
-title: "About"
+title: "Resume"
+permalink: /resume/
+layout: single
+author_profile: true
+toc: true
+toc_label: "Contents"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Interested in **WEB**, **WEB3**, and **CLOUD** security (hacking).
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+## Skills
+
+- **Web Security** — web application hacking & exploitation
+- **Web3 Security** — smart contract / blockchain security
+
+## Experience
+
+### Cybersecurity Consultant
+*Oct 2024 – Present*
+
+- Working as a cybersecurity consultant.
+
+## Projects
+
+### ETH/USD Prediction Mini-Game
+A mini prediction game for ETH/USD price using the **Pyth oracle**.
+
+- **Tech:** Web3, Smart Contracts, Pyth Network
+- **Repo:** [github.com/LOBYI/BAY_ETHPrediction](https://github.com/LOBYI/BAY_ETHPrediction)
+
+## CTF & Competitions
+
+- **Codegate 2025** — Participant
+- **Cyber Conflict Exercise 2025** — Attack & Defense, Beta Tester, Blue Team *(Aug 2025)* — [link](https://cce.cstec.kr/#2)
