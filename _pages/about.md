@@ -13,9 +13,12 @@ Interested in **WEB**, **WEB3**, and **CLOUD** security (hacking).
 
 - **Web Security** — web application hacking & exploitation
 - **Web3 Security** — smart contract / blockchain security
-- **CLOUD** - AWS
+- **Cloud** - AWS
 
 ## Experience
+
+- **CTF Team** - Rubiyalab (2024.06 ~)
+- **Blockchain** - BAY(Blockchain At Yonsei, DEV TEAM) (2026.01 ~)
 
 ### Cybersecurity Consultant
 *Oct 2024 – Present*
