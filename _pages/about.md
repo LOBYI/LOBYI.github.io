@@ -13,6 +13,7 @@ Interested in **WEB**, **WEB3**, and **CLOUD** security (hacking).
 
 - **Web Security** — web application hacking & exploitation
 - **Web3 Security** — smart contract / blockchain security
+- **CLOUD** - AWS
 
 ## Experience
 
