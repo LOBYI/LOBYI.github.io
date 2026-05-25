@@ -17,7 +17,7 @@ Interested in **WEB**, **WEB3**, and **CLOUD** security (hacking).
 
 ## Experience
 
-- **CTF Team** - Rubiyalab (2024.06 ~)
+- **CTF Team** - [Rubiyalab](https://rubiyalab.team/) (2024.06 ~)
 - **Blockchain** - BAY(Blockchain At Yonsei, DEV TEAM) (2026.01 ~)
 
 ### Cybersecurity Consultant
@@ -35,5 +35,5 @@ A mini prediction game for ETH/USD price using the **Pyth oracle**.
 
 ## CTF & Competitions
 
-- **Codegate 2025** — Participant
+- **Codegate 2025** — Rubiyalab(Participant)
 - **Cyber Conflict Exercise 2025** — Attack & Defense, Beta Tester, Blue Team *(Aug 2025)* — [link](https://cce.cstec.kr/#2)
