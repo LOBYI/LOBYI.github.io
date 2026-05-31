@@ -31,7 +31,7 @@ Interested in **WEB**, **WEB3**, and **CLOUD** security (hacking).
 A mini prediction game for ETH/USD price using the **Pyth oracle**.
 
 - **Tech:** Web3, Smart Contracts, Pyth Network
-- **Repo:** [github.com/LOBYI/BAY_ETHPrediction](https://github.com/LOBYI/BAY_ETHPrediction)
+- **Repo:** [https://github.com/LOBYI/BAY_ETHPrediction](https://github.com/LOBYI/BAY_ETHPrediction)
 
 ## CTF & Competitions
 
