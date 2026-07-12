@@ -37,4 +37,4 @@ A mini prediction game for ETH/USD price using the **Pyth oracle**.
 
 - **Codegate 2025** — Rubiyalab(Participant)
 - **Cyber Conflict Exercise 2025** — Attack & Defense, Beta Tester, Blue Team *(Aug 2025)* — [link](https://cce.cstec.kr/#2)
-- **Defcon 34 (2026)** — Jinddabi's
+- **Defcon 34 (2026)** — Jinddabi's(Finalist)
